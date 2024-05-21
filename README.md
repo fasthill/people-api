@@ -1,5 +1,7 @@
 # people-api
 
+원본: https://github.com/automationhacks/people-api . ~에서 연습용으로 복사하여 사용함.
+
 Hello 👋🏻,
 
 This is a REST API with that simulates a simple people record database. Post following the setup
